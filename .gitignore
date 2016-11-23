@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+
+# WordPress Install
+/public/wp/
+
+# GitKeep
+!.gitkeep
+
+# Composer Dependencies
+/vendor
+
+# Config Files
+production-config.php
+local-config.php
